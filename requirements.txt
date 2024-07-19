@@ -43,3 +43,9 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Added: pygame and gui
+pygame>=2.6.0
+pyopengl>=3.1.5
+pyopengl-accelerate>=3.1.5
+pygame_gui>=0.6.12
